@@ -1,0 +1,6 @@
+nik;nama;jk;alamat;hafalan;target
+1172383001020003;Sulthan;L;Banda Aceh;10;30
+1073025003020002;Siti Choirunnisa;P;Padang;10;20
+1170041111010005;Ahmad Bayu Zahirsyah;L;Aceh Tamiang;10;30
+1174221011010003;Muhammad Basri;L;Nagan Raya;3;10
+1173010101010001;Sri Yufita;P;Sabang;7;15
